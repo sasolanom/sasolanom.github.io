@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog personal!
+title: hola
 categories: [general, setup, demo]
 tags: [demo, dbyll, dbtek, setup]
 fullview: true

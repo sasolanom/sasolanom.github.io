@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Estudios realizados
 categories: [general, setup, demo]
 tags: [demo, dbyll, dbtek, setup]
 fullview: true

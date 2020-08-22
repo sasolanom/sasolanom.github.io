@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Configuration
+title: Estudios realizados
 categories: [general, setup, demo]
 tags: [demo, dbyll, dbtek, setup]
 fullview: true
@@ -9,15 +9,11 @@ fullview: true
 In your config file change these settings
 
 {% highlight yaml %}
-title: dbyll
-author:  
-  name: yourname  
-  email: youremail  
-  github: asd123  
-  twitter: asd123  
-  pinterest: asd123  
-  linkedin: asd123  
-  resume: asd123  
-  bio: Your stylish,  minimalist theme!  
-  email_md5: md5ofemail  
+•	Unidad educativa Getsemaní
+•	Unidad Educativa Salesiana Fiscomisional Domingo Comín 
+  Figura profesional: bachiller técnico-especialización: 
+  Eléctrica de Consumo
+•	Espol: Pre politécnico II período 
+•	Espol: primer semestre 
+•	Universidad de guayaquil: Ingerniera en Software (cursando) 
 {% endhighlight %}

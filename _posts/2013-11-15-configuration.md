@@ -1,9 +1,9 @@
 ---
 layout: post
-title: La realidad virtual
+title: Estudios realizados
 categories: [general, demo]
 tags: [demo, dbyll, dbtek]
-description: Estudios
+description: estudios
 ---
 
 

@@ -6,6 +6,7 @@ tags: [demo, dbyll, dbtek, setup]
 fullview: true
 comments: true
 ---
+### Bibliografia
 
 Me llamo Santiago Solano, naci en guayaquil el 18 de diciembre de 1998, de pequeño siempre fui bueno para los matematicas, participando
 en varios concursos intercolegiales, he tenido muy buenos profesores que me han inspirado a llegar en donde estoy, me gradue del colegio

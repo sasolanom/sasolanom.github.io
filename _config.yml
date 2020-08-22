@@ -14,11 +14,11 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: sasolanom
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
+  name: hola
   email: sasolanom18@hotmail.com
   email_md5: 726351295ec82e145928582f595aa3aa
 

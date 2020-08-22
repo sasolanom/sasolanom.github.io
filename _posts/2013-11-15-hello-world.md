@@ -14,6 +14,4 @@ en el año 2018 como tecnico electrico en donde pude ver un poco de lo que era l
 de Software, por problemas economicos tuve que trabajar al salir del colegio, pero pronto pude reincorporarme a los estudios aplicando 
 para ingeniera en Software que es la carrera que estoy siguiendo hoy en dia esperando ser algun dia un gran profesional 
 
-### dbyll is on GitHub
 
-<a class="btn btn-default" href="https://github.com/dbtek/dbyll">Grab your copy now!</a>

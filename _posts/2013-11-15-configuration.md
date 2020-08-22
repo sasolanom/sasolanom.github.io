@@ -13,5 +13,5 @@ In your config file change these settings
 •Unidad Educativa Salesiana Fiscomisional Domingo Comín 
  Figura profesional: bachiller técnico-especialización: Eléctrica de Consumo 
 •Espol: primer semestre 
-•Universidad de guayaquil: Ingerniera en Software (cursando) 
+•Universidad de Guayaquil: Ingerniera en Software (cursando) 
 {% endhighlight %}

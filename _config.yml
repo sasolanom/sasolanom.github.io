@@ -7,14 +7,14 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: Santiago Solano
+title: Contacta a Santiago Solano
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: sasolanom
+      title: Razones por las que te amo 
 
 description: Stylish Jekyll Theme
 author: 

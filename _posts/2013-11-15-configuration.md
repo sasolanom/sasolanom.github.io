@@ -1,22 +1,13 @@
 ---
 layout: post
-title: Estudios realizados
+title: borracha pero buena muchacha
 categories: [general, demo]
 tags: [demo, dbyll, dbtek]
-description: estudios
+description: cuando sales a tomar confio en ti 
 ---
 
 
-•Unidad educativa Getsemaní
+aun que me enoje por que te la pasas tomando y me dejas solito
+confio mucho en ti y se que nunca me harias algo malo
+por que se que te importo mucho y me amas mucho
 
-
-•Unidad Educativa Salesiana Fiscomisional Domingo Comín 
-
-
- Figura profesional: bachiller técnico-especialización: Eléctrica de Consumo
- 
- 
-•Espol: Primer semestre. 
-
-
-•Universidad de Guayaqui: Carrera en Ingenieria en Software (cursando).
